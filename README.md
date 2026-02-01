@@ -23,7 +23,7 @@ I am an **Electronic Engineer** specializing in the convergence of **Artificial 
 I have a strong foundation in low-level Firmware Programming (C/C++) for optimized device control, combined with advanced expertise in Python, Computer Vision, and LSTM networks for real-time data analysis.
 
 - 🔭 **I’m currently working on:** AI Agents & Automation at **AiGrow**, integrating LLMs with hardware execution.
-- 🎓 **Education:** BSc Eng (Hons) in Electrical & Electronic Engineering (KDU) & MSc in Data Science & AI (UoM).
+- 🎓 **Education:** BSc Eng (Hons) in Electrical & Electronic Engineering (KDU) & MSc in Data Science & AI (UoM) (Reading).
 - 💡 **Interests:** IoT Infrastructure, Adaptive Control Systems, Computer Vision, and Deep Learning.
 
 ---
