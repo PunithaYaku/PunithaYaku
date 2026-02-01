@@ -62,8 +62,3 @@ I have a strong foundation in low-level Firmware Programming (C/C++) for optimiz
 * **SLTC IRC 2024:** A Systematic Literature Review of Weather-Driven Solar Energy Forecasting.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Punitha's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" />
-</div>
